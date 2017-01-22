@@ -1,0 +1,6 @@
+D:\Code\C#\1.4\1.4\bin\Debug\1.4.exe.config
+D:\Code\C#\1.4\1.4\obj\Debug\1.4.csprojResolveAssemblyReference.cache
+D:\Code\C#\1.4\1.4\bin\Debug\1.4.exe
+D:\Code\C#\1.4\1.4\bin\Debug\1.4.pdb
+D:\Code\C#\1.4\1.4\obj\Debug\1.4.exe
+D:\Code\C#\1.4\1.4\obj\Debug\1.4.pdb
